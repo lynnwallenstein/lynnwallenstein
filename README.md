@@ -6,36 +6,15 @@
 - **Title**: Senior Director of Engineering, GitHub
 - **Timezone**: PST
 - **Pronouns**: she/her
-- **Twitter**: [@lynnwallenstein](https://twitter.com/lynnwallenstein)
+- **Twitter**: [lynnwallenstein](https://twitter.com/lynnwallenstein) - Opinions are my own
+- **LinkedIn**: [lynnwallenstein](https://www.linkedin.com/in/lynnwallenstein/) 
 - **Blog**: http://www.lynn.io
 
+## Little Bit About Me
 
-## About Me
+I love coffee, electronic music (BT, Underworld, Royskopp), 80s music, gin, video games (assasins creed, animal crossing), and was a super SCSS nerd back in the day. I am attempting to learn to play the bass guitar, but failing at it pretty terribly. My husband Shannon and I have been married for 3 years and we have a cat roomate, Oen, who tolerates us.
 
-Born on the NJ shore in 1979. Dropped out of highschool at 16 to move to the bay area to work in tech during the first tech bubble. Relocated to Las Vegas with the company in 2001. Lived there for 5 or so years and then headed back east to Maryland. Freelanced for 5 or so years and then moved to DC for a couple years. Started at GitHub April 1, 2013, moved to SF April 1, 2014 and then moved to Vegas April 1, 2015.
-
-I love coffee, electronic music (BT, Underworld, Royskopp), gin, video games (assasins creed, animal crossing), 80s music, and was a super SCSS nerd back in the day.
-
-### Lenses that I View Life Through
-
-- Woman
-- 40 Years of Age
-- Caucasian 
-- Wife (3 Years, Husband's name is Shannon)
-- Engineer (Front End)
-- East Coaster living in the west
-- Coffee Addict ... but not snob
-- Helped raise my nieces for 8 years, so did the parent thing in a way
-- Cat person (I live with a cat roomate, who hates me, named Oen)
-
-## Interests
-
-- Coffee
-- [Electronic and 80s Music](https://www.last.fm/user/lynnwallenstein)
-- Gin (St George!)
-- [Management Books](https://www.goodreads.com/lynnwallenstein) (Yep!)
-- Spending time with my two nieces (Lily - 12, Emilie - 11) and nephew (Declan - 5)
-- Learning to play the bass guitar.. and failing terribly.
+I am from the NJ shore, but spent my life moving around the country starting in 1997 when I moved to the bay aread during the first tech bubble to be a "webmaster" for a small web based software company. I relocated to Las Vegas with the company in 2001 and lived there for 5 or so years. I moved to Maryland in 2006 and helped raise my nieces for about 7 years and spent my time freelancing and working with small companies to build MVP Rails apps. In 2012 I moved to DC and started working at [LivingSocial](https://www.livingsocial.com/). On Started at GitHub on April 1, 2013 working removely from DC. A year later I moved to SF and worked for a year out of the headquarters and finally moved back to Vegas on April 1, 2015 and have been working remotely since then.
 
 
 ## Values
@@ -52,11 +31,6 @@ I think poor communication tends to be the core of most problems. It is usually 
 
 I think trust and honesty come hand in, you can't have trust without honesty and it takes trust to be honest. I value coming to a relationship with trust and a genuine belief that we are all trying to do our best work and that even in disagreements they are done with the best of intent without maliciousness. Part of this trust also comes between our teams and our leadership to deal with situations where the above is not true in a fair and swift manner. 
 
-
-## Connect
-
-* [Twitter](https://twitter.com/lynnwallenstein) - Opinions are my own
-* [LinkedIn](https://www.linkedin.com/in/lynnwallenstein/) 
 
 ![octocat](https://user-images.githubusercontent.com/2606/58603344-42685980-8245-11e9-9338-8c986a197d1b.png)
 
