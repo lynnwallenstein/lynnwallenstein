@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/2606/58603343-41cfc300-8245-11e9-9777-331a47ceb635.jpg" alt="Lynn Wallenstein" width="128px" align="center" />
 
 
-# Lynn Wallenstein (Lin Wall-In-styne)
+# Lynn Wallenstein (Lin Wall-in-styne)
 
 - **Title**: Senior Director of Engineering, GitHub
 - **Timezone**: PST
