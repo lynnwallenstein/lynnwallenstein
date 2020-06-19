@@ -6,9 +6,13 @@
 - **Title**: Senior Director of Engineering, GitHub
 - **Timezone**: PST
 - **Pronouns**: she/her
+
+## Connect
+- **Meeting**: [Schedule Calendly](https://calendly.com/lynnwallenstein)
 - **Twitter**: [lynnwallenstein](https://twitter.com/lynnwallenstein) - Opinions are my own
 - **LinkedIn**: [lynnwallenstein](https://www.linkedin.com/in/lynnwallenstein/) 
 - **Blog**: http://www.lynn.io
+
 
 ## Little Bit About Me
 
