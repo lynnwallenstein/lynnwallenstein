@@ -6,6 +6,7 @@
 - **Title**: Senior Director of Engineering, GitHub
 - **Timezone**: PST
 - **Pronouns**: she/her
+- **Myers–Briggs**: [INTJ](https://www.16personalities.com/intj-personality)
 
 ## Connect
 - **Meeting**: [Schedule Calendly](https://calendly.com/lynnwallenstein)
