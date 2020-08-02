@@ -7,6 +7,7 @@
 - **Timezone**: PST
 - **Pronouns**: she/her
 - **Myers–Briggs**: [INTJ](https://www.16personalities.com/intj-personality)
+- **SDI**: MVS - [HUB](strength-deployment-inventory.pdf) | Conflict - [HUB](strength-deployment-inventory.pdf)
 
 ## Connect
 - **Meeting**: [Schedule Calendly](https://calendly.com/lynnwallenstein)
