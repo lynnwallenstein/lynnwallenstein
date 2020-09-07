@@ -38,5 +38,6 @@ I think poor communication tends to be the core of most problems. It is usually 
 I think trust and honesty come hand in, you can't have trust without honesty and it takes trust to be honest. I value coming to a relationship with trust and a genuine belief that we are all trying to do our best work and that even in disagreements they are done with the best of intent without maliciousness. Part of this trust also comes between our teams and our leadership to deal with situations where the above is not true in a fair and swift manner. 
 
 
-![octocat](https://user-images.githubusercontent.com/2606/58603344-42685980-8245-11e9-9338-8c986a197d1b.png)
+![octocat](https://user-images.githubusercontent.com/2606/92340959-07241f80-f071-11ea-9cc5-d42481b03216.png)
+
 
