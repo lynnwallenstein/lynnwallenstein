@@ -5,7 +5,7 @@
 
 - **Title**: Senior Director of Engineering, GitHub
 - **Timezone**: PST
-- **Pronouns**: she/her
+- **Pronouns**: she/her/hers
 - **Myers–Briggs**: [INTJ](https://www.16personalities.com/intj-personality)
 - **SDI**: MVS - [HUB](strength-deployment-inventory.pdf) | Conflict - [HUB](strength-deployment-inventory.pdf)
 
