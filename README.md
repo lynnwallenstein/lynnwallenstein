@@ -3,7 +3,7 @@
 
 # Lynn Wallenstein (Lin Wall-in-styne)
 
-- **Title**: Senior Director of Engineering, GitHub
+- **Title**: VP of Engineering, GitHub
 - **Timezone**: PST
 - **Pronouns**: she/her/hers
 - **Myers–Briggs**: [INTJ](https://www.16personalities.com/intj-personality)
