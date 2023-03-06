@@ -12,7 +12,7 @@
 ## Connect
 - **Meeting**: [Schedule Calendly](https://calendly.com/lynnwallenstein)
 - **Twitter**: [lynnwallenstein](https://twitter.com/lynnwallenstein) - Opinions are my own
-- **Mastadoon**: [@lynnwallenstein@mastodon.lol](https://mastodon.lol/web/@lynnwallenstein) - Opinions are my own
+- **Mastadoon**: [@lynnwallenstein@hachyderm.io](https://hachyderm.io/web/@lynnwallenstein) - Opinions are my own
 - **LinkedIn**: [lynnwallenstein](https://www.linkedin.com/in/lynnwallenstein/) 
 - **Blog**: http://www.lynn.io
 
