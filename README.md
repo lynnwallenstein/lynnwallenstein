@@ -27,15 +27,15 @@ I am from the NJ shore but spent my life moving around the country starting in 1
 
 ### **Progress and Delivery**
 
-My journey through various roles and companies has taught me the importance of forward momentum. Progress—be it shipping a product, making a decision, or even unshipping a feature—is the lifeblood of opportunity. It's the foundation upon which great teams are built.
+Forward momentum is my top priority. Whether it's shipping a product, making a decision, or even unshipping a feature, progress is the cornerstone upon which opportunities and great teams are built.
 
-### **Communication and Feedback**
+### **Communication, Feedback, and Transparency**
 
-The root of most problems lies in poor communication. Whether it's fear of giving critical feedback or failing to ensure everyone is on the same page, bad communication is the source of many work related problems. I advocate for a culture of open dialogue, where verification and repetition are the norms.
+Poor communication is often the root of many problems. I advocate for a culture of open dialogue, verification, and transparency. These elements are vital in building trust and fostering an inclusive environment.
 
-### **Trust and Honesty**
+### **Trust, Honesty, and Ethical Responsibility**
 
-Trust and honesty are two sides of the same coin. I value relationships built on these tenets, where everyone is assumed to act with the best of intentions. This trust extends to the relationship between teams and leadership, ensuring a fair and swift resolution of any issues.
+Trust and honesty are inseparable and foundational for any relationship. Ethical responsibility extends this trust towards society and the environment, ensuring a holistic approach to decision-making.
 
 <img src="https://raw.githubusercontent.com/lynnwallenstein/lynnwallenstein/master/images/contributions.png" alt="Lynn Wallenstein's Contributions" />
 
