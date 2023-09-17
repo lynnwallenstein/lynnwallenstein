@@ -5,7 +5,7 @@
 
 - **Title**: SVP of Engineering, CargoSense
 - **Timezone**: PST
-- **Pronouns**: she/her/hers
+- **Pronouns**: [she/her](https://pronouns.org/she-her)
 - **Myers–Briggs**: [INTJ](https://www.16personalities.com/intj-personality)
 - **SDI**: MVS - [HUB](strength-deployment-inventory.pdf) | Conflict - [HUB](strength-deployment-inventory.pdf)
 
