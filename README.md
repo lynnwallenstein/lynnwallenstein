@@ -38,3 +38,12 @@ Trust and honesty are inseparable and foundational for any relationship. Ethical
 
 <img src="https://raw.githubusercontent.com/lynnwallenstein/lynnwallenstein/main/images/contributions.png" alt="Lynn Wallenstein's Contributions" />
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lynnwallenstein&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lynnwallenstein&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lynnwallenstein&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lynnwallenstein&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lynnwallenstein&theme=default&utcOffset=8)
