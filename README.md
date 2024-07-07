@@ -36,5 +36,5 @@ Poor communication is often the root of many problems. I advocate for a culture 
 
 Trust and honesty are inseparable and foundational for any relationship. Ethical responsibility extends this trust towards society and the environment, ensuring a holistic approach to decision-making.
 
-<img src="https://raw.githubusercontent.com/lynnwallenstein/lynnwallenstein/master/images/contributions.png" alt="Lynn Wallenstein's Contributions" />
+<img src="https://raw.githubusercontent.com/lynnwallenstein/lynnwallenstein/main/images/contributions.png" alt="Lynn Wallenstein's Contributions" />
 
