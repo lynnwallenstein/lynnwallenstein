@@ -51,7 +51,7 @@ Trust and honesty are inseparable and foundational for any relationship. Ethical
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -92,17 +92,19 @@ Sunday                   971 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    7 mins              █████████████████████████   98.74 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+YAML                     36 mins             ████████████████░░░░░░░░░   64.78 % 
+Other                    19 mins             █████████░░░░░░░░░░░░░░░░   35.05 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+VS Code                  56 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dotfiles                 7 mins              █████████████████████████   100.00 % 
+license-usage            49 mins             ██████████████████████░░░   86.82 % 
+dotfiles                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+Mac                      56 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -122,5 +124,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lynnwallenstein/lynnwallenstein/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2024 20:38:38 UTC
+ Last Updated on 27/10/2024 18:40:33 UTC
 <!--END_SECTION:waka-->
