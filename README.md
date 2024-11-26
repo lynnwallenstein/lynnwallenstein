@@ -12,9 +12,10 @@
 ## Connect - Opinions are my own
 - **Meeting**: [Schedule Calendly](https://calendly.com/lynnwallenstein)
 - **Blog**: http://www.lynn.io
+- **Mastadoon**: [@lynn.io](https://bsky.app/profile/lynn.io)
 - **Mastadoon**: [@lynnwallenstein@hachyderm.io](https://hachyderm.io/web/@lynnwallenstein)
 - **LinkedIn**: [lynnwallenstein](https://www.linkedin.com/in/lynnwallenstein/) 
-- **Twitter**: [lynnwallenstein](https://twitter.com/lynnwallenstein)
+
 
 ## Little Bit About Me
 
