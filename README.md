@@ -50,15 +50,13 @@ Trust and honesty are inseparable and foundational for any relationship. Ethical
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lynnwallenstein&theme=default&utcOffset=8)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 792.9 kB Used in GitHub's Storage 
- > 
-> 🏆 96 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -122,5 +120,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lynnwallenstein/lynnwallenstein/main/assets/bar_graph.png)
 
 
- Last Updated on 08/03/2025 18:38:35 UTC
+ Last Updated on 09/03/2025 18:38:40 UTC
 <!--END_SECTION:waka-->
