@@ -50,11 +50,15 @@ Trust and honesty are inseparable and foundational for any relationship. Ethical
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lynnwallenstein&theme=default&utcOffset=8)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%2029%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 794.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 268 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,6 +66,45 @@ Trust and honesty are inseparable and foundational for any relationship. Ethical
  > 
 > 🔑 16 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2439 commits        █████████░░░░░░░░░░░░░░░░   36.89 % 
+🌆 Daytime                2424 commits        █████████░░░░░░░░░░░░░░░░   36.66 % 
+🌃 Evening                1022 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+🌙 Night                  727 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   854 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Tuesday                  879 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Wednesday                884 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Thursday                 1095 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Friday                   870 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Saturday                 797 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Sunday                   1233 commits        █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -79,5 +122,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lynnwallenstein/lynnwallenstein/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2025 18:44:12 UTC
+ Last Updated on 03/05/2025 18:43:03 UTC
 <!--END_SECTION:waka-->
