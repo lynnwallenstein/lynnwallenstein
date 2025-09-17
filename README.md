@@ -50,6 +50,8 @@ Trust and honesty are inseparable and foundational for any relationship. Ethical
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lynnwallenstein&theme=default&utcOffset=8)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2056%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -62,6 +64,45 @@ Trust and honesty are inseparable and foundational for any relationship. Ethical
  > 
 > 🔑 17 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3259 commits        █████████░░░░░░░░░░░░░░░░   37.94 % 
+🌆 Daytime                3150 commits        █████████░░░░░░░░░░░░░░░░   36.67 % 
+🌃 Evening                1269 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+🌙 Night                  912 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   1083 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Tuesday                  1232 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Wednesday                1171 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Thursday                 1488 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Friday                   1136 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Saturday                 935 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Sunday                   1545 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+SCSS                     0 secs              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  0 secs              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+sensetra                 0 secs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      0 secs              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -79,5 +120,5 @@ HCL                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lynnwallenstein/lynnwallenstein/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2025 18:46:05 UTC
+ Last Updated on 17/09/2025 18:46:47 UTC
 <!--END_SECTION:waka-->
