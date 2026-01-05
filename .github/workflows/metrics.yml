@@ -14,3 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Debug Action Environment
+          run: |
+            printenv | grep WAKA
+            printenv | grep GH_TOKEN
