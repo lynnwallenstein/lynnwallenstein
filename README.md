@@ -50,13 +50,15 @@ Trust and honesty are inseparable and foundational for any relationship. Ethical
 ![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lynnwallenstein&theme=default&utcOffset=8)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2045%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 804.5 kB Used in GitHub's Storage 
+> 📦 804.6 kB Used in GitHub's Storage 
  > 
-> 🏆 2,868 Contributions in the Year 2026
+> 🏆 2,887 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,6 +66,54 @@ Trust and honesty are inseparable and foundational for any relationship. Ethical
  > 
 > 🔑 22 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                21279 commits       ███████░░░░░░░░░░░░░░░░░░   29.24 % 
+🌆 Daytime                36201 commits       ████████████░░░░░░░░░░░░░   49.74 % 
+🌃 Evening                11630 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+🌙 Night                  3670 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   11621 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Tuesday                  12434 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Wednesday                9389 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Thursday                 10376 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Friday                   12652 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+Saturday                 8477 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Sunday                   7831 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+Markdown                 3 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   40.88 % 
+Bash                     1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+YAML                     1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Other                    51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+JSON                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+
+🔥 Editors: 
+VS Code                  7 hrs 12 mins       ████████████████████████░   96.51 % 
+Unknown Editor           15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+
+🐱‍💻 Projects: 
+dotfiles                 3 hrs 36 mins       ████████████░░░░░░░░░░░░░   48.19 % 
+nightscout               1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+github-actions           1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+sensetra                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+github                   27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+
+💻 Operating System: 
+Mac                      7 hrs 28 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -81,5 +131,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lynnwallenstein/lynnwallenstein/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 19:43:11 UTC
+ Last Updated on 29/05/2026 19:41:13 UTC
 <!--END_SECTION:waka-->
